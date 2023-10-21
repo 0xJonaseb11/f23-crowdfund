@@ -1,0 +1,9 @@
+[submodule "CrowdFunding/lib/forge-std"]
+	path = CrowdFunding/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "CrowdFunding/lib/foundry-devops"]
+	path = CrowdFunding/lib/foundry-devops
+	url = https://github.com/ChainAccelOrg/foundry-devops
+[submodule "CrowdFunding/lib/solmate"]
+	path = CrowdFunding/lib/solmate
+	url = https://github.com/transmissions11/solmate
