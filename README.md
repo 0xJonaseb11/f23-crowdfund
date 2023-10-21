@@ -10,6 +10,13 @@ It is entirely transparent and uses minimised code but of great smart contract l
 ### Licence
 It is fully MIT Licenced which makes it secure and therefore leaves behind no doubts for its transparency.
 
+## Libraries used
+   @chainlink-brownie-contracts
+   @solmate
+   @oppenzepplin
+   @foundry-devops
+   @forge-std
+
 <hr>
 
-### Author: Jonas Sebera
+### Author: @Jonas-sebera
