@@ -11,11 +11,11 @@ It is entirely transparent and uses minimised code but of great smart contract l
 It is fully MIT Licenced which makes it secure and therefore leaves behind no doubts for its transparency.
 
 ## Libraries used
-   @chainlink-brownie-contracts
-   @solmate
-   @oppenzepplin
-   @foundry-devops
-   @forge-std
+            @chainlink-brownie-contracts
+            @solmate
+            @oppenzepplin
+            @foundry-devops
+            @forge-std
 
 <hr>
 
