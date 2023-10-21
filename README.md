@@ -1,3 +1,5 @@
+### Author: @Jonas-sebera
+
 # foundry-f23-crowdfunding
 A foundry-f23 crowdfunding transparent smart contract developed in Solidity
 
@@ -7,3 +9,7 @@ It is entirely transparent and uses minimised code but of great smart contract l
 
 ### Licence
 It is fully MIT Licenced which makes it secure and therefore leaves behind no doubts for its transparency.
+
+<hr>
+
+### Author: Jonas Sebera
